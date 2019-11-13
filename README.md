@@ -6,8 +6,8 @@
 - [Graphics](#graphics)
 - [Guideline](#guideline)
 - [Monitoring](#monitoring)
-- [Photostock](#photostock)
 - [Playground](#playground)
+- [Resources](#resources)
 - [Robotic](#robotic)
 - [Sound](#sound)
 - [Testing](#testing)
@@ -50,13 +50,16 @@
 - [JConsole](https://docs.oracle.com/javase/7/docs/technotes/guides/management/jconsole.html) - Using JConsole.
 - [JMX](https://geekflare.com/enable-jmx-tomcat-to-monitor-administer/) - How to Enable JMX in Tomcat to Monitor & Administer.
 
-## Photostock
-- [Unsplash](https://unsplash.com) - Beautiful Free Images & Pictures.
-
 ## Playground
 - [CodePen](https://codepen.io) - Social development environment for front-end designers and developers.
 - [JSFiddle](https://jsfiddle.net) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
 - [SQL Fiddle](http://sqlfiddle.com) - Application for testing and sharing SQL queries
+
+## Resources
+- Photostock
+    - [Unsplash](https://unsplash.com) - Beautiful Free Images & Pictures.
+- Icon
+    - [Iconpacks](https://www.iconpacks.net/) - Completely Free Vector Icons For Everything
 
 ## Robotic
 - [Robot Operating System](http://ros.org/)
