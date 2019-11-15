@@ -58,6 +58,8 @@
 ## Resources
 - Photostock
     - [Unsplash](https://unsplash.com) - Beautiful Free Images & Pictures.
+- VectorStock
+    - [VectorStock](https://www.vectorstock.com/) - Royalty Free Vector Images
 - Icon
     - [Iconpacks](https://www.iconpacks.net/) - Completely Free Vector Icons For Everything
 
