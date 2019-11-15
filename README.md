@@ -2,6 +2,7 @@
 - [API Development](#api)
 - [Checker](#checker)
 - [Development Environment](#development-environment)
+- [Front-end](#front-end)
 - [Framework](#framework)
 - [Graphics](#graphics)
 - [Guideline](#guideline)
@@ -29,6 +30,11 @@
 - [Git](https://git-scm.com)
     - [.gitignore.io](https://www.gitignore.io) - Create useful .gitignore files for your project
     - [Git Tips](https://github.com/git-tips/tips)
+
+## Front-end
+- [Book]
+    - [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/) - Front-end Developer Handbook 2019
+Written by Cody Lindley
 
 ## Framework
 - [Laradock](https://laradock.io/) - A full PHP development environment for Docker.
