@@ -45,6 +45,7 @@ Written by Cody Lindley
 - [Laradock](https://laradock.io/) - A full PHP development environment for Docker.
     - [Prepare Laradock for Production](https://laradock.io/documentation/#prepare-laradock-for-production)
     - [สร้าง Laravel Environments บน Docker ง่ายๆด้วย Laradock](https://medium.com/@anuchamaitripirom/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-laravel-environments-%E0%B8%9A%E0%B8%99-docker-%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%86%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-laradock-7c5abf362538)
+- [Web components](https://www.webcomponents.org/) -  a set of web platform APIs that allow you to create new custom, reusable, encapsulated HTML tags to use in web pages and web apps.
 
 ## Graphics
 - [Picular](https://picular.co) - Google, but for colors.
