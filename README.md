@@ -1,7 +1,9 @@
 # Contents
+- [Awesome](#awesome)
 - [API Development](#api)
 - [Checker](#checker)
 - [CMS](#cms)
+- [Consent management](#consent-management)
 - [Development Environment](#development-environment)
 - [Front-end](#front-end)
 - [Framework](#framework)
@@ -18,6 +20,10 @@
 - [Video](#video)
 - [Web Development](#web-development)
 
+## Awesome
+   - [Awesome Open Source](https://awesomeopensource.com/)
+   - [Awesome GDPR](https://github.com/erichard/awesome-gdpr) - A curated list of GDPR-compliant tools for websites creators.
+
 ## API Development
 - [API Umbrella](https://apiumbrella.io/#features) - Open Source API Management.
 - [Kong](https://konghq.com) - Next-Generation API Platform for Modern Architectures.
@@ -31,6 +37,11 @@
 ## CMS
 - Headless CMS
     - [headlesscms](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites
+
+## Consent management
+- [OIL](https://www.oiljs.org/) - fuel for your consent management.
+- [BRAINSUM/Cookie consent](https://brainsum.github.io/cookieconsent/)
+- [Cookie Consent by osano](https://www.osano.com/cookieconsent) - A free solution to the EU, GDPR, and California Cookie Laws
 
 ## Development Environment
 - [Git](https://git-scm.com)
