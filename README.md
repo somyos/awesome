@@ -11,6 +11,7 @@
 - [Playground](#playground)
 - [Resources](#resources)
 - [Robotic](#robotic)
+- [Server](#server)
 - [Sound](#sound)
 - [Testing](#testing)
 - [Utilities](#utilities)
@@ -79,6 +80,9 @@ Written by Cody Lindley
 ## Robotic
 - [Robot Operating System](http://ros.org/)
     - [ROS for Windows](https://ros-win.visualstudio.com/ros-win)
+
+## Server
+- [Caddy 2](https://caddyserver.com) - a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go
 
 ## Sound
 - [HookSounds](https://www.hooksounds.com/) - Royalty Free Music
