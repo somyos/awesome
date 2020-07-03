@@ -89,37 +89,38 @@ Written by Cody Lindley
 ## Playground
 - [CodePen](https://codepen.io) - Social development environment for front-end designers and developers.
 - [JSFiddle](https://jsfiddle.net) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
-- [SQL Fiddle](http://sqlfiddle.com) - Application for testing and sharing SQL queries
+- [SQL Fiddle](http://sqlfiddle.com) - Application for testing and sharing SQL queries.
 
 ## Resources
 - Photostock
     - [Unsplash](https://unsplash.com) - Beautiful Free Images & Pictures.
 - VectorStock
-    - [VectorStock](https://www.vectorstock.com/) - Royalty Free Vector Images
+    - [VectorStock](https://www.vectorstock.com/) - Royalty Free Vector Images.
 - Icon
-    - [Iconpacks](https://www.iconpacks.net/) - Completely Free Vector Icons For Everything
+    - [Iconpacks](https://www.iconpacks.net/) - Completely Free Vector Icons For Everything.
 
 ## Robotic
 - [Robot Operating System](http://ros.org/)
     - [ROS for Windows](https://ros-win.visualstudio.com/ros-win)
 
 ## SEO
-- [Ubersuggest](https://neilpatel.com/) - Free Keyword Tool, Generate More Suggestions
+- [Ubersuggest](https://neilpatel.com/) - Free Keyword Tool, Generate More Suggestions.
 
 ## Server
-- [Caddy 2](https://caddyserver.com) - a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go
+- [Caddy 2](https://caddyserver.com) - a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go.
 
 ## Sound
 - [HookSounds](https://www.hooksounds.com/) - Royalty Free Music
 
 ## Testing
-- [Locust](https://locust.io) - An open source load testing tool.
-- [Puppeteer](https://pptr.dev) - Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol.
-    - [Try Puppeteer](https://try-puppeteer.appspot.com/)
-- [Tsung](http://tsung.erlang-projects.org/) - open-source multi-protocol distributed load testing tool
-    - [Install on MacOS X] (http://tsung.erlang-projects.org/user_manual/installation.html)
 - [Katalon](https://www.katalon.com) - Simplify API, Web, Mobile Automation Tests.
 - [Online Test Data Generator](https://www.onlinedatagenerator.com/) - Build up your test dataset and export your data.
+- [Locust](https://locust.io) - An open source load testing tool.
+- [Playwright](https://github.com/microsoft/playwright) - a Node library to automate Chromium, Firefox and WebKit with a single API. 
+- [Puppeteer](https://pptr.dev) - Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol.
+    - [Try Puppeteer](https://try-puppeteer.appspot.com/)
+- [Tsung](http://tsung.erlang-projects.org/) - open-source multi-protocol distributed load testing tool.
+    - [Install on MacOS X] (http://tsung.erlang-projects.org/user_manual/installation.html)
 
 ## Utilities
 - [Homebrew](https://brew.sh/) - The missing package manager for macOS.
