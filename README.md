@@ -1,6 +1,7 @@
 # Contents
 - [Awesome](#awesome)
 - [API Development](#api)
+- [Cheat sheets](#cheat-sheets)
 - [Checker](#checker)
 - [CMS](#cms)
 - [Consent management](#consent-management)
@@ -13,6 +14,7 @@
 - [Playground](#playground)
 - [Resources](#resources)
 - [Robotic](#robotic)
+- [SEO](#seo)
 - [Server](#server)
 - [Sound](#sound)
 - [Testing](#testing)
@@ -29,10 +31,19 @@
 - [Kong](https://konghq.com) - Next-Generation API Platform for Modern Architectures.
 - [Strapi](https://strapi.io) - API creation made simple, secure and fast.
 
+## Cheat sheets
+- [Emmet Documentation](https://docs.emmet.io/cheat-sheet/) - Emmet — the essential toolkit for web-developers
+
 ## Checker
 - Broken Link
     - [LinkChecker](http://wummel.github.io/linkchecker/)
     - [W3C Link Checker](http://validator.w3.org/checklink)
+- DNS
+   - [DNS Checker](https://dnschecker.org) - DNS Check Propagation Tool
+- Status
+   - [httpstatus.io](https://httpstatus.io) - HTTP Status Code Checker
+- Website
+   - [urlscan.io](https://urlscan.io) - a service to scan and analyse websites
 
 ## CMS
 - Headless CMS
@@ -91,6 +102,9 @@ Written by Cody Lindley
 ## Robotic
 - [Robot Operating System](http://ros.org/)
     - [ROS for Windows](https://ros-win.visualstudio.com/ros-win)
+
+## SEO
+- [Ubersuggest](https://neilpatel.com/) - Free Keyword Tool, Generate More Suggestions
 
 ## Server
 - [Caddy 2](https://caddyserver.com) - a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go
