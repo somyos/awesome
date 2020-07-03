@@ -138,3 +138,5 @@ Written by Cody Lindley
 
 ## Web Development
 - [GrapesJS](https://grapesjs.com) - Free and Open Source Web Builder Framework
+- [METALSMITH](https://metalsmith.io) - An extremely simple, pluggable static site generator
+- 
