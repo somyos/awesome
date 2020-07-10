@@ -76,6 +76,7 @@ Written by Cody Lindley
 - [carboon](https://carbon.now.sh) - Create and share beautiful images of your source code.
 - [draw.io](https://www.draw.io/) - For making flowcharts, process diagrams, org charts, UML, ER diagrams, network diagrams and much more.
 - [ImageOptim](https://imageoptim.com/mac) - Excellent for publishing images on the web.
+- [Favicon Generator](https://realfavicongenerator.net) - Favicon Generator for perfect icons on all browsers.
 
 ## Guideline
 - [Google: Material Design](https://material.io/design/) - Make beautiful products, faster. Material is a design system
@@ -138,6 +139,6 @@ Written by Cody Lindley
 - [asciinema](https://asciinema.org/) - Record and share your terminal sessions
 
 ## Web Development
-- [GrapesJS](https://grapesjs.com) - Free and Open Source Web Builder Framework
-- [METALSMITH](https://metalsmith.io) - An extremely simple, pluggable static site generator
-- 
+- [GrapesJS](https://grapesjs.com) - Free and Open Source Web Builder Framework.
+- [METALSMITH](https://metalsmith.io) - An extremely simple, pluggable static site generator.
+- [Frontity](https://frontity.org) - The React framework for WordPress.
