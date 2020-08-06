@@ -100,8 +100,8 @@ Written by Cody Lindley
     - [Drawkit](https://www.drawkit.io) - Beautiful free vector illustrations.
     - [Humaaans](https://www.humaaans.com) - Mix-&-Match illustration library.
     - [Ouch!](https://icons8.com/illustrations) - Ouch helps creators who don't draw overcome the lack of quality graphics.
-    - [Paper Illustrations](https://iconscout.com/paper-illustrations) - Free illustrations library
-    = [Undraw](https://undraw.co) - Open source illustrations for any idea
+    - [Paper Illustrations](https://iconscout.com/paper-illustrations) - Free illustrations library.
+    - [Undraw](https://undraw.co) - Open source illustrations for any idea.
     - [VectorStock](https://www.vectorstock.com/) - Royalty Free Vector Images.
 - Icon
     - [Iconpacks](https://www.iconpacks.net/) - Completely Free Vector Icons For Everything.
