@@ -48,6 +48,9 @@
 ## CMS
 - Headless CMS
     - [headlesscms](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites
+- Wordpress
+   - [Site Kit](https://sitekit.withgoogle.com) - Google's official WordPress plugin
+   - [Web Stories](https://wordpress.org/plugins/web-stories/) - visual storytelling format for the web
 
 ## Consent management
 - [OIL](https://www.oiljs.org/) - fuel for your consent management.
