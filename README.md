@@ -104,6 +104,7 @@ Written by Cody Lindley
 - [SQL Fiddle](http://sqlfiddle.com) - Application for testing and sharing SQL queries.
 
 ## Resources
+- [Design Resources](https://designresourc.es/) - A curated list of the best design resources handpicked from around the web.
 - Photostock
     - [Unsplash](https://unsplash.com) - Beautiful Free Images & Pictures.
 - VectorStock
