@@ -33,6 +33,7 @@
 
 ## Cheat sheets
 - [Emmet Documentation](https://docs.emmet.io/cheat-sheet/) - Emmet — the essential toolkit for web-developers
+- [Yum Command](https://access.redhat.com/sites/default/files/attachments/rh_yum_cheatsheet_1214_jcs_print-1.pdf) - for Red Hat Enterprise Linux
 
 ## Checker
 - Broken Link
