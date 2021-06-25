@@ -107,6 +107,7 @@ Written by Cody Lindley
 - [Design Resources](https://designresourc.es/) - A curated list of the best design resources handpicked from around the web.
 - Photostock
     - [Unsplash](https://unsplash.com) - Beautiful Free Images & Pictures.
+    - [Pixabay](https://pixabay.com) - 2.3 million+ Stunning Free Images to Use Anywhere.
 - VectorStock
     - [Drawkit](https://www.drawkit.io) - Beautiful free vector illustrations.
     - [Humaaans](https://www.humaaans.com) - Mix-&-Match illustration library.
