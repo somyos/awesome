@@ -128,6 +128,7 @@ Written by Cody Lindley
 ## Server
 - [Caddy 2](https://caddyserver.com) - a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go.
 - [MinIO](https://min.io/) - High Performance, Kubernetes Native Object Storage.
+- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - an interactive HTTPS proxy.
 - [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen.
 
 ## Sound
