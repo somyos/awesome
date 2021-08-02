@@ -26,6 +26,7 @@
 ## Awesome
    - [Awesome Open Source](https://awesomeopensource.com/)
    - [Awesome GDPR](https://github.com/erichard/awesome-gdpr) - A curated list of GDPR-compliant tools for websites creators.
+   - [Open Source Alternatives](https://www.btw.so/open-source-alternatives) - We’ve curated 200+ open source alternatives to tools that businesses require in day-to-day operations.
 
 ## API Development
 - [API Umbrella](https://apiumbrella.io/#features) - Open Source API Management.
