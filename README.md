@@ -92,6 +92,7 @@ Written by Cody Lindley
 - [Google: Material Design](https://material.io/design/) - Make beautiful products, faster. Material is a design system
 - [Apple: Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) - Get in-depth information and UI resources for designing great apps that integrate seamlessly with Apple platforms.
 - [Microsoft: Design Universal Windows Platform](https://developer.microsoft.com/en-us/windows/apps/design) - Fluent Design guidelines and UI code examples for creating app experiences on Windows 10
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) - Web technology for developers.
 
 ## Monitoring
 - [JConsole](https://docs.oracle.com/javase/7/docs/technotes/guides/management/jconsole.html) - Using JConsole.
