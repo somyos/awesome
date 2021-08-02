@@ -52,9 +52,11 @@
 - [UNPKG](https://unpkg.com/) - unpkg is a fast, global content delivery network for everything on npm
 
 ## CMS
+- [CKAN](https://ckan.org) - The world’s leading open source data management system
 - Headless CMS
-    - [headlesscms](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites
+   - [headlesscms](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites
 - Wordpress
+   - [Material Design](https://wordpress.org/plugins/material-design/) - Material Design for WordPress
    - [Site Kit](https://sitekit.withgoogle.com) - Google's official WordPress plugin
    - [Web Stories](https://wordpress.org/plugins/web-stories/) - visual storytelling format for the web
 
