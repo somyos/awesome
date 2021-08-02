@@ -157,7 +157,8 @@ Written by Cody Lindley
 - [Keka](http://www.kekaosx.com/en/) - Keka is a free file archiver for macOS
 
 ## Video
-- [asciinema](https://asciinema.org/) - Record and share your terminal sessions
+- [asciinema](https://asciinema.org/) - Record and share your terminal sessions.
+- [OBS Studio](https://obsproject.com) - Open Broadcaster Software.
 
 ## Web Development
 - [GrapesJS](https://grapesjs.com) - Free and Open Source Web Builder Framework.
