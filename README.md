@@ -11,6 +11,7 @@
 - [Framework](#framework)
 - [Graphics](#graphics)
 - [Guideline](#guideline)
+- [Home Automation](#home-automation)
 - [Monitoring](#monitoring)
 - [Playground](#playground)
 - [Resources](#resources)
@@ -26,7 +27,6 @@
 ## Awesome
    - [Awesome Open Source](https://awesomeopensource.com/)
    - [Awesome GDPR](https://github.com/erichard/awesome-gdpr) - A curated list of GDPR-compliant tools for websites creators.
-   - [Open Source Alternatives](https://www.btw.so/open-source-alternatives) - We’ve curated 200+ open source alternatives to tools that businesses require in day-to-day operations.
 
 ## API Development
 - [API Umbrella](https://apiumbrella.io/#features) - Open Source API Management.
@@ -52,11 +52,9 @@
 - [UNPKG](https://unpkg.com/) - unpkg is a fast, global content delivery network for everything on npm
 
 ## CMS
-- [CKAN](https://ckan.org) - The world’s leading open source data management system
 - Headless CMS
-   - [headlesscms](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites
+    - [headlesscms](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites
 - Wordpress
-   - [Material Design](https://wordpress.org/plugins/material-design/) - Material Design for WordPress
    - [Site Kit](https://sitekit.withgoogle.com) - Google's official WordPress plugin
    - [Web Stories](https://wordpress.org/plugins/web-stories/) - visual storytelling format for the web
 
@@ -94,7 +92,9 @@ Written by Cody Lindley
 - [Google: Material Design](https://material.io/design/) - Make beautiful products, faster. Material is a design system
 - [Apple: Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) - Get in-depth information and UI resources for designing great apps that integrate seamlessly with Apple platforms.
 - [Microsoft: Design Universal Windows Platform](https://developer.microsoft.com/en-us/windows/apps/design) - Fluent Design guidelines and UI code examples for creating app experiences on Windows 10
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) - Web technology for developers.
+
+## Home Automation
+- [Home Assistant](https://www.home-assistant.io) - Awaken your home
 
 ## Monitoring
 - [JConsole](https://docs.oracle.com/javase/7/docs/technotes/guides/management/jconsole.html) - Using JConsole.
@@ -161,8 +161,7 @@ Written by Cody Lindley
 - [Keka](http://www.kekaosx.com/en/) - Keka is a free file archiver for macOS
 
 ## Video
-- [asciinema](https://asciinema.org/) - Record and share your terminal sessions.
-- [OBS Studio](https://obsproject.com) - Open Broadcaster Software.
+- [asciinema](https://asciinema.org/) - Record and share your terminal sessions
 
 ## Web Development
 - [GrapesJS](https://grapesjs.com) - Free and Open Source Web Builder Framework.
