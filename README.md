@@ -11,6 +11,7 @@
 - [Framework](#framework)
 - [Graphics](#graphics)
 - [Guideline](#guideline)
+- [Home Automation](#home-automation)
 - [Monitoring](#monitoring)
 - [Playground](#playground)
 - [Resources](#resources)
@@ -92,6 +93,9 @@ Written by Cody Lindley
 - [Apple: Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) - Get in-depth information and UI resources for designing great apps that integrate seamlessly with Apple platforms.
 - [Microsoft: Design Universal Windows Platform](https://developer.microsoft.com/en-us/windows/apps/design) - Fluent Design guidelines and UI code examples for creating app experiences on Windows 10
 
+## Home Automation
+- [Home Assistant](https://www.home-assistant.io) - Awaken your home
+
 ## Monitoring
 - [JConsole](https://docs.oracle.com/javase/7/docs/technotes/guides/management/jconsole.html) - Using JConsole.
 - [JMX](https://geekflare.com/enable-jmx-tomcat-to-monitor-administer/) - How to Enable JMX in Tomcat to Monitor & Administer.
@@ -107,6 +111,7 @@ Written by Cody Lindley
 - [Design Resources](https://designresourc.es/) - A curated list of the best design resources handpicked from around the web.
 - Photostock
     - [Unsplash](https://unsplash.com) - Beautiful Free Images & Pictures.
+    - [Pixabay](https://pixabay.com) - 2.3 million+ Stunning Free Images to Use Anywhere.
 - VectorStock
     - [Drawkit](https://www.drawkit.io) - Beautiful free vector illustrations.
     - [Humaaans](https://www.humaaans.com) - Mix-&-Match illustration library.
@@ -131,6 +136,7 @@ Written by Cody Lindley
 ## Server
 - [Caddy 2](https://caddyserver.com) - a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go.
 - [MinIO](https://min.io/) - High Performance, Kubernetes Native Object Storage.
+- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - an interactive HTTPS proxy.
 - [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen.
 
 ## Sound
