@@ -114,8 +114,12 @@ Written by Cody Lindley
     - [Paper Illustrations](https://iconscout.com/paper-illustrations) - Free illustrations library.
     - [Undraw](https://undraw.co) - Open source illustrations for any idea.
     - [VectorStock](https://www.vectorstock.com/) - Royalty Free Vector Images.
+    - [pixabay](https://pixabay.com/) - Stunning free images & royalty free stock
 - Icon
     - [Iconpacks](https://www.iconpacks.net/) - Completely Free Vector Icons For Everything.
+- Music
+    - [HookSounds](https://www.hooksounds.com/) - Royalty Free Music
+    - [pixabay](https://pixabay.com/music/) - Thousands of music and audio tracks, free for commercial and non-commercial use.
 
 ## Robotic
 - [Robot Operating System](http://ros.org/)
@@ -130,7 +134,7 @@ Written by Cody Lindley
 - [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen.
 
 ## Sound
-- [HookSounds](https://www.hooksounds.com/) - Royalty Free Music
+
 
 ## Testing
 - [Katalon](https://www.katalon.com) - Simplify API, Web, Mobile Automation Tests.
