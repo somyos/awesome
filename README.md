@@ -134,10 +134,11 @@ Written by Cody Lindley
 - [Ubersuggest](https://neilpatel.com/) - Free Keyword Tool, Generate More Suggestions.
 
 ## Server
-- [Caddy 2](https://caddyserver.com) - a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go.
+- [Caddy 2](https://caddyserver.com) - A powerful, enterprise-ready, open source web server with automatic HTTPS written in Go.
 - [MinIO](https://min.io/) - High Performance, Kubernetes Native Object Storage.
-- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - an interactive HTTPS proxy.
+- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - Interactive HTTPS proxy.
 - [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen.
+- [Supabase](https://github.com/supabase/supabase) - Open source Firebase alternative.
 
 ## Sound
 
