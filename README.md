@@ -6,6 +6,7 @@
 - [CDN](#cdn)
 - [CMS](#cms)
 - [Consent management](#consent-management)
+- [Design](#design)
 - [Development Environment](#development-environment)
 - [Front-end](#front-end)
 - [Framework](#framework)
@@ -62,6 +63,9 @@
 - [OIL](https://www.oiljs.org/) - fuel for your consent management.
 - [BRAINSUM/Cookie consent](https://brainsum.github.io/cookieconsent/)
 - [Cookie Consent by osano](https://www.osano.com/cookieconsent) - A free solution to the EU, GDPR, and California Cookie Laws
+
+## Design
+- [Gaphor](https://gaphor.org/) - A UML, SysML, RAAML, and C4 modeling application.
 
 ## Development Environment
 - [Git](https://git-scm.com)
