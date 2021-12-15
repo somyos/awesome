@@ -1,5 +1,6 @@
 # Contents
 - [Awesome](#awesome)
+- [Analysis](#Analysis)
 - [API Development](#api)
 - [Cheat sheets](#cheat-sheets)
 - [Checker](#checker)
@@ -28,6 +29,9 @@
 ## Awesome
    - [Awesome Open Source](https://awesomeopensource.com/)
    - [Awesome GDPR](https://github.com/erichard/awesome-gdpr) - A curated list of GDPR-compliant tools for websites creators.
+
+## Analysis
+- [Voyant](https://voyant-tools.org/) - A web-based reading and analysis environment for digital texts.
 
 ## API Development
 - [API Umbrella](https://apiumbrella.io/#features) - Open Source API Management.
