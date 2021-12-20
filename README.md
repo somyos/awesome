@@ -18,7 +18,7 @@
 - [Playground](#playground)
 - [Resources](#resources)
 - [Robotic](#robotic)
-- [Security]
+- [Security](#security)
 - [SEO](#seo)
 - [Server](#server)
 - [Sound](#sound)
