@@ -18,6 +18,7 @@
 - [Playground](#playground)
 - [Resources](#resources)
 - [Robotic](#robotic)
+- [Security]
 - [SEO](#seo)
 - [Server](#server)
 - [Sound](#sound)
@@ -137,6 +138,9 @@ Written by Cody Lindley
 ## Robotic
 - [Robot Operating System](http://ros.org/)
     - [ROS for Windows](https://ros-win.visualstudio.com/ros-win)
+
+## SECURITY
+- [Pi-hole](https://pi-hole.net) - Network-wide ad blocking via your own Linux hardware.
 
 ## SEO
 - [Ubersuggest](https://neilpatel.com/) - Free Keyword Tool, Generate More Suggestions.
