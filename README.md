@@ -9,6 +9,7 @@
 - [Consent management](#consent-management)
 - [Design](#design)
 - [Development Environment](#development-environment)
+- [Electronics](#electronics)
 - [Front-end](#front-end)
 - [Framework](#framework)
 - [Graphics](#graphics)
@@ -77,6 +78,9 @@
     - [.gitignore.io](https://www.gitignore.io) - Create useful .gitignore files for your project
     - [Git Tips](https://github.com/git-tips/tips)
 - [ngrok](https://ngrok.com) - secure introspectable tunnels to localhost
+
+## Electronics
+- [KiCad](https://github.com/KiCad/kicad-source-mirror) - KiCad is an open source software suite for Electronic Design Automation (EDA)
 
 ## Front-end
 - [Book]
