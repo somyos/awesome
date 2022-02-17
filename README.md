@@ -64,6 +64,7 @@
 - Wordpress
    - [Site Kit](https://sitekit.withgoogle.com) - Google's official WordPress plugin
    - [Web Stories](https://wordpress.org/plugins/web-stories/) - visual storytelling format for the web
+   - [WPScan](https://wpscan.com/wordpress-security-scanner) - WordPress Security Scanner
 
 ## Consent management
 - [OIL](https://www.oiljs.org/) - fuel for your consent management.
