@@ -72,6 +72,7 @@
 
 ## Design
 - [Gaphor](https://gaphor.org/) - A UML, SysML, RAAML, and C4 modeling application.
+- [Mermaid](https://mermaid-js.github.io/mermaid/#/) - Mermaid lets you create diagrams and visualizations using text and code.
 
 ## Development Environment
 - [Git](https://git-scm.com)
