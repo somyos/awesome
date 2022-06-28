@@ -24,6 +24,7 @@
 - [Server](#server)
 - [Sound](#sound)
 - [Testing](#testing)
+- [Translate](#translate)
 - [Utilities](#utilities)
 - [Video](#video)
 - [Web Development](#web-development)
@@ -171,6 +172,9 @@ Written by Cody Lindley
     - [Try Puppeteer](https://try-puppeteer.appspot.com/)
 - [Tsung](http://tsung.erlang-projects.org/) - open-source multi-protocol distributed load testing tool.
     - [Install on MacOS X] (http://tsung.erlang-projects.org/user_manual/installation.html)
+
+## Translate
+- [Poedit](https://poedit.net) - Poedit Translation Editor
 
 ## Utilities
 - [Homebrew](https://brew.sh/) - The missing package manager for macOS.
