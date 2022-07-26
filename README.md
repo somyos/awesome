@@ -148,6 +148,7 @@ Written by Cody Lindley
 
 ## SECURITY
 - [Pi-hole](https://pi-hole.net) - Network-wide ad blocking via your own Linux hardware.
+- [Lynis](https://cisofy.com/) - Security auditing, system hardening, and compliance monitoring.
 
 ## SEO
 - [Ubersuggest](https://neilpatel.com/) - Free Keyword Tool, Generate More Suggestions.
