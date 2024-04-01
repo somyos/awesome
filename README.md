@@ -167,6 +167,7 @@ Written by Cody Lindley
 - [Source Code Analysis Tools](https://owasp.org/www-community/Source_Code_Analysis_Tools) - Static Application Security Testing (SAST) Tools
 - [Katalon](https://www.katalon.com) - Simplify API, Web, Mobile Automation Tests.
 - [Online Test Data Generator](https://www.onlinedatagenerator.com/) - Build up your test dataset and export your data.
+- [Loader](https://loader.io) - Simple Cloud-based LOAD TESTING.
 - [Locust](https://locust.io) - An open source load testing tool.
 - [Playwright](https://github.com/microsoft/playwright) - a Node library to automate Chromium, Firefox and WebKit with a single API. 
 - [Puppeteer](https://pptr.dev) - Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol.
