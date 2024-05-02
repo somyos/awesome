@@ -7,6 +7,7 @@
 - [CDN](#cdn)
 - [CMS](#cms)
 - [Consent management](#consent-management)
+- [Data](#data)
 - [Design](#design)
 - [Development Environment](#development-environment)
 - [Electronics](#electronics)
@@ -71,6 +72,10 @@
 - [OIL](https://www.oiljs.org/) - fuel for your consent management.
 - [BRAINSUM/Cookie consent](https://brainsum.github.io/cookieconsent/)
 - [Cookie Consent by osano](https://www.osano.com/cookieconsent) - A free solution to the EU, GDPR, and California Cookie Laws
+
+## Data
+- [ckan](https://ckan.org) - The world’s leading open-source data portal platform.
+- [OpenMetadata](https://open-metadata.org) - A unified platform for discovery, observability, and governance.
 
 ## Design
 - [Gaphor](https://gaphor.org/) - A UML, SysML, RAAML, and C4 modeling application.
