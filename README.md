@@ -75,6 +75,7 @@
 
 ## Data
 - [ckan](https://ckan.org) - The world’s leading open-source data portal platform.
+- [DataHub](https://datahubproject.io) - The #1 Open Source Metadata Platform
 - [OpenMetadata](https://open-metadata.org) - A unified platform for discovery, observability, and governance.
 
 ## Design
