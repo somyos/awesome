@@ -157,7 +157,7 @@ Written by Cody Lindley
 - [Pi-hole](https://pi-hole.net) - Network-wide ad blocking via your own Linux hardware.
 - [Lynis](https://cisofy.com/) - Security auditing, system hardening, and compliance monitoring.
 - [OWASP Top10](https://owasp.org/www-project-top-ten/) - a standard awareness document for developers and web application security.
-     -[OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) - is probably the most modern and sophisticated insecure web application!
+     - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) - is probably the most modern and sophisticated insecure web application!
 
 ## SEO
 - [Ubersuggest](https://neilpatel.com/) - Free Keyword Tool, Generate More Suggestions.
