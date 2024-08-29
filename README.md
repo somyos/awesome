@@ -153,6 +153,7 @@ Written by Cody Lindley
     - [ROS for Windows](https://ros-win.visualstudio.com/ros-win)
 
 ## SECURITY
+- [Burp Suite](https://portswigger.net/burp/communitydownload) - Start your web security testing journey
 - [The InternetDB API](https://internetdb.shodan.io/) - Fast IP Lookups for Open Ports and Vulnerabilities.
 - [Pi-hole](https://pi-hole.net) - Network-wide ad blocking via your own Linux hardware.
 - [Lynis](https://cisofy.com/) - Security auditing, system hardening, and compliance monitoring.
